@@ -67,7 +67,7 @@ GPS Capture ← Coordinate Logging ← Post-processing ← Filtering
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/pothole-detection.git
+git clone https://github.com/Saravananb91/road-pothole-.git
 cd pothole-detection
 ```
 
@@ -254,10 +254,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter) - your.email@example.com
+Saravanan B - [mrsaravananb@gmail.com ](mrsaravananb@gmail.com)
 
-Project Link: [https://github.com/yourusername/pothole-detection](https://github.com/yourusername/pothole-detection)
-
+Project Link: [https://github.com/Saravananb91/road-pothole-](https://github.com/Saravananb91/road-pothole-)
+Portfolio website : 
 ## 🙏 Acknowledgments
 
 - [YOLOv4](https://github.com/AlexeyAB/darknet) by AlexeyAB
