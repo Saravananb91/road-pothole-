@@ -1,0 +1,10 @@
+# Core dependencies
+opencv-python>=4.5.0
+opencv-contrib-python>=4.5.0
+numpy>=1.19.0
+
+# Geolocation
+geocoder>=1.38.1
+
+# Optional GPU support (uncomment if using CUDA)
+# opencv-python-headless>=4.5.0  # For servers without GUI
